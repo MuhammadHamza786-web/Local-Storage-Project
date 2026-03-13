@@ -1,20 +1,16 @@
-/* *{
-    margin: 0;
-    padding: 0;
-} */
+
 
 .container{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
     border: 1px solid black;
     height: 400px;
     margin: 0 auto;
     width: 350px;   
 }
-.container form label input{
-    si
+.container form button{
+   background-color: aqua;   
 }
 
 
