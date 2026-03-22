@@ -1,0 +1,37 @@
+.logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.button{
+    margin: 5px;
+}
+.contianer1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+     flex-wrap: wrap;
+     padding-left: 30px;
+    
+}
+.card{
+    
+    margin: 10px;
+     
+}
+.card-title{
+    font-style: italic;
+    text-decoration: underline;
+}
+.card-text{
+    font-weight: 800;
+    font-style: oblique;
+}
+.pic{
+    height: 200px;
+    
+}
+.navbar{
+    justify-content: center;
+}
